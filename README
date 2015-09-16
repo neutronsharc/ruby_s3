@@ -1,4 +1,4 @@
-Ruby code to access S3.
+Code to access S3:  Ruby, Python.
 
 See ceph_s3_accessor_test.rb for example about how to use this code.
 
