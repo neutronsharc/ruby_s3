@@ -1,0 +1,4 @@
+Ruby code to access S3.
+
+See ceph_s3_accessor_test.rb for example about how to use this code.
+
